@@ -18,6 +18,8 @@
 
 🧩<a href="https://github.com/zendrolya/graph-explorer" target="_blank">Graph Explorer</a> - крупный учебный проект, находящийся в активной разработке. Является редактором, позволяющим работать с графами. Более подробное описание, в том числе возможности, находятся в Readme.md репозитория.
 
+🌍<a href="https://github.com/zendrolya/ip-address-tracker" target="_blank">IP address tracker</a> - приложение для отслеживания IP-адресов в рамках код-челленджа [Frontend Mentor](https://www.frontendmentor.io/).
+
 <h2>📚Стек технологий</h2>
 <h3>💻Языки программирования</h3>
 
