@@ -20,6 +20,8 @@
 
 🌍<a href="https://github.com/zendrolya/ip-address-tracker" target="_blank">IP address tracker</a> - приложение для отслеживания IP-адресов в рамках код-челленджа [Frontend Mentor](https://www.frontendmentor.io/).
 
+🛒<a href="https://github.com/zendrolya/mini-shop" target="_blank">Mini-shop</a> - e-commerce аналог интернет-магазина с подгрузкой товаров через API, корзиной, избранным, темной и светлой темами, мобильной адаптацией и процессом оформления заказа.
+
 <h2>📚Стек технологий</h2>
 <h3>💻Языки программирования</h3>
 
